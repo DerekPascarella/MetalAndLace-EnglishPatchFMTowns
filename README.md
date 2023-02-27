@@ -87,7 +87,7 @@ Due to the game's use of compression when storing its graphics, two items remain
 </tr>
 <tr>
 <td><b>Cover Scans</b></td>
-<td><a href="https://raw.githubusercontent.com/DerekPascarella/MetalAndLace-EnglishPatchFMTowns/main/images/cover_front.jpg">Front</a><br><a href="https://raw.githubusercontent.com/DerekPascarella/MetalAndLace-EnglishPatchFMTowns/main/images/cover_spine.jpg">Spine</a><br><a href="https://raw.githubusercontent.com/DerekPascarella/MetalAndLace-EnglishPatchFMTowns/main/images/cover_back.jpg">Back</a></td>
+<td><a href="https://raw.githubusercontent.com/DerekPascarella/MetalAndLace-EnglishPatchFMTowns/main/images/cover_front.jpg">Front</a> / <a href="https://raw.githubusercontent.com/DerekPascarella/MetalAndLace-EnglishPatchFMTowns/main/images/cover_spine.jpg">Spine</a> / <a href="https://raw.githubusercontent.com/DerekPascarella/MetalAndLace-EnglishPatchFMTowns/main/images/cover_back.jpg">Back</a></td>
 </tr>
 </table>
 
