@@ -48,6 +48,12 @@ The latest version of this patch is <a href="xxxx">0.9 and can be downloaded her
 </ul>
 
 <h2>To-Do</h2>
+Due to the game's use of compression when storing its graphics, two items remain untranslated as of version 0.9 of this patch.
+<br><br>
+<ul>
+<li><b>Title Screen Logo</b><br><br><img width="300" height="225" src="xxxx"><br><br></li>
+<li><b>Introduction Screen Text</b><br><br><img width="300" height="225" src="xxxx"><br><br><i>Silhouettes are remote-controlled robots originally developed to work in harsh conditions, such as outer space.  However, these robots quickly became popular for other applications, including combat.  The rise is this robot-on-robot form of martial arts resulted in numerous tournaments being held, including a world championship.</i></li>
+</ul>
 
 <h2>About the Game</h2>
 <table>
@@ -78,3 +84,7 @@ The latest version of this patch is <a href="xxxx">0.9 and can be downloaded her
 </table>
 
 <h2>How to Play</h2>
+<ul>
+ <li><b>ODE (Optical Drive Emulator)</b><br>The English-patched version of this game is compatible with both the <a href="https://gdemu.wordpress.com/details/docbrown-details/>DocBrown</a> and <a href="https://gdemu.wordpress.com/details/wizard-details/">Wizard</a> ODEs for the FM Towns Marty and the FM Towns, respectively.  Note that only the patched <tt>.bin</tt> file should be copied to the SD card, as neither ODE supports parsing CUE sheets.  Because "Metal & Lace" uses only one data track with no CDDA, both of these ODEs are compatible with the single <tt>.bin</tt>.<br><br>In order to save game progress, an MS-DOS-formatted floppy disk must be present.  For users of FDD emulators (e.g., <a href="https://www.gotekemulator.com/">GoTek</a>, <a href="https://caiusarcade.blogspot.com/2021/05/the-thing-fm-towns-marty-fdd-emulator.html">The Thing</a>), see pre-made disk images below.<br><br><a href="https://github.com/DerekPascarella/MetalAndLace-EnglishPatchFMTowns/blob/main/fdd_images/Blank%20Disk%20(MS-DOS%20Formatted).hfe">Blank Disk (MS-DOS Formatted).hfe</a><br><a href="https://github.com/DerekPascarella/MetalAndLace-EnglishPatchFMTowns/blob/main/fdd_images/Metal%20%26%20Lace%20-%20Completed%20Save.hfe">Metal & Lace - Completed Save.hfe</a><br><br></li>
+ <li><b>Emulator</b><br>asfasdf</li>
+</ul>
