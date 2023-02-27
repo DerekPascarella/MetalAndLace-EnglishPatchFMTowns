@@ -1,18 +1,20 @@
 <h1>Metal & Lace</h1>
 <img width="165" height="229" align="right" src="https://raw.githubusercontent.com/DerekPascarella/MetalAndLace-EnglishPatchFMTowns/main/images/cover_front_small.jpg?token=GHSAT0AAAAAABY4UP7EEYD2EPMSL75CNTC4Y74T3QA">English translation patch for the FM Towns/FM Towns Marty game "Metal & Lace".
 <br><br>
-Players assume the role of Mimi, a young girl obsessed with developing high-tech exoskeletons, known as Silhouettes.  When she and her mother stumble upon an online ad for an underground fighting tournament, her mother quickly decides that Mimi must compete (and win) in order to pay off the tremendous debts that her daughter's hobby has incurred.
+Players assume the role of Mimi, a young girl obsessed with developing high-tech remote-controlled robots, known as Silhouettes.  When she and her mother stumble upon an online ad for an underground fighting tournament, her mother quickly decides that Mimi must compete (and win) in order to pay off the tremendous debts that her daughter's hobby has incurred.
 <br><br>
-What follows is a battle between Mimi and six other girls, all of whom don their own robotic combat suits.  The player completes the game after successfully defeating all six opponents, resulting in a scene where Mimi's mother decides that her daughter must now move on to an even bigger tournament with even bigger prize winnings.
+What follows is a battle between Mimi and six other girls, all of whom wield their own Silhouettes.  The player completes the game after successfully defeating all six opponents, resulting in a scene where Mimi's mother decides that her daughter must now move on to an even bigger tournament with even bigger prize winnings.
+<br><br>
+The latest version of this patch is <a href="xxxx">0.9 and can be downloaded here</a>.
 
 <h2>Table of Contents</h2>
 
 1. [Patching Instructions](#patching-instructions)
 2. [Release Changelog](#release-changelog)
 3. [What's Changed](#whats-changed)
-4. [Roadmap](#roadmap)
+4. [To-Do](#to-do)
 5. [About the Game](#about-the-game)
-6. [A Note on Emulators and ODEs](#a-note-on-emulators-and-odes)
+6. [How to Play](#how-to-play)
 
 <h2>Patching Instructions</h2>
 <img align="right" width="250" src="https://i.imgur.com/r4b04e7.png">The XDelta patch file shipped with this release can be used with any number of Delta utilities, such as <a href="https://www.romhacking.net/utilities/704/">Delta Patcher</a>. Ensure that the <a href="http://redump.org/disc/72696/">Redump version of the game</a> is used as the source disc image, where <tt>Ningyou Tsukai (Japan).bin</tt> has an MD5 checksum of <tt>899AA0A1D3AF956F2A59A4E8638558AE</tt>.
@@ -26,11 +28,53 @@ What follows is a battle between Mimi and six other girls, all of whom don their
 </ol>
 
 <h2>Release Changelog</h2>
+<ul>
+ <li>Version 0.9 (2023-02-27)</li>
+ <ul>
+  <li>Initial release.</li>
+ </ul>
+</ul>
 
 <h2>What's Changed</h2>
+<ul>
+<li>Title screen menu text has been translated into English.</li>
+<li>Introduction sequence between Mimi and her mother has been translated into English.</li>
+<li>Fighter data sheets have been translated into English.</li>
+<li>Pre-battle dialogue text has been translated into English.</li>
+<li>Mid-battle dialogue text has been translated into English.</li>
+<li>Post-battle dialogue text has been translated into English.</li>
+<li>Credits have been translated into English.</li>
+<li>A missing piece of mid-battle dialogue text has been restored (i.e., a bug in the original Japanese release).</li>
+</ul>
 
-<h2>Roadmap</h2>
+<h2>To-Do</h2>
 
 <h2>About the Game</h2>
+<table>
+<tr>
+<td><b>Original Title</b></td>
+<td>Ningyou Tsukai (人形使い)</td>
+</tr>
+<tr>
+<td><b>Localized Title</b></td>
+<td>Metal & Lace</td>
+</tr>
+<tr>
+<td><b>Developer</b></td>
+<td>Forest</td>
+</tr>
+<tr>
+<td><b>Publisher</b></td>
+<td>Forest</td>
+</tr>
+<tr>
+<td><b>Release Date</b></td>
+<td>October 1993</td>
+</tr>
+<tr>
+<td><b>Compatibility</b></td>
+<td>FM Towns<br>FM Towns Marty (with mild color palette issues)</td>
+</tr>
+</table>
 
-<h2>A Note on Emulators and ODEs</h2>
+<h2>How to Play</h2>
