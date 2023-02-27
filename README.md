@@ -51,8 +51,8 @@ The latest version of this patch is <a href="https://github.com/DerekPascarella/
 Due to the game's use of compression when storing its graphics, two items remain untranslated as of version 0.9 of this patch.
 <br><br>
 <ul>
-<li><b>Title Screen Logo</b><br><br><img width="300" height="225" src="xxxx"><br><br></li>
-<li><b>Introduction Screen Text</b><br><br><img width="300" height="225" src="xxxx"><br><br><i>Silhouettes are remote-controlled robots originally developed to work in harsh conditions, such as outer space.  However, these robots quickly became popular for other applications, including combat.  The rise of this robot-on-robot form of martial arts resulted in numerous tournaments being held, including a world championship.</i></li>
+<li><b>Title Screen Logo</b><br><br><img width="300" height="225" src="https://github.com/DerekPascarella/MetalAndLace-EnglishPatchFMTowns/blob/main/images/to-do_title_screen.png?raw=true"><br><br></li>
+<li><b>Introduction Screen Text</b><br><br><img width="300" height="225" src="https://github.com/DerekPascarella/MetalAndLace-EnglishPatchFMTowns/blob/main/images/to-do_intro_text.png?raw=true"><br><br><i>Silhouettes are remote-controlled robots originally developed to work in harsh conditions, such as outer space.  However, these robots quickly became popular for other applications, including combat.  The rise of this robot-on-robot form of martial arts resulted in numerous tournaments being held, including a world championship.</i></li>
 </ul>
 
 <h2>About the Game</h2>
