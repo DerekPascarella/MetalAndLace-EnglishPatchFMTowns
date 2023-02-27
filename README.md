@@ -24,7 +24,7 @@ The latest version of this patch is <a href="https://github.com/DerekPascarella/
 <li>Click the "Original file" browse icon and select the unmodified <tt>Ningyou Tsukai (Japan).bin</tt> file.</li>
 <li>Click the "XDelta patch" browse icon and select the XDelta patch.</li>
 <li>Click "Apply patch" to generate the patched <tt>.bin</tt> in the same folder from which the application is launched.</li>
-<li>Verify that the patched <tt>.bin</tt> has an MD5 checksum of <tt>DC140C7056E8EBE51983882160E2BF70</tt>.</li>
+<li>Verify that the patched <tt>.bin</tt> has an MD5 checksum of <tt>3750F38993440C8604C325FBDFFEA503</tt>.</li>
 </ol>
 
 <h2>Release Changelog</h2>
