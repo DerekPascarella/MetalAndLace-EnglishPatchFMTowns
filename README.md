@@ -44,7 +44,7 @@ The latest version of this patch is <a href="https://github.com/DerekPascarella/
 <li>Mid-battle dialogue text has been translated into English.</li>
 <li>Post-battle dialogue text has been translated into English.</li>
 <li>Credits have been translated into English.</li>
-<li>A missing piece of mid-battle dialogue text has been restored (i.e., a bug in the original Japanese release).</li>
+<li>A missing piece of mid-battle dialogue text has been restored (i.e., bugfix for the original Japanese release).</li>
 </ul>
 
 <h2>To-Do</h2>
