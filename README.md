@@ -1,5 +1,5 @@
 <h1>Metal & Lace</h1>
-<img width="165" height="229" align="right" src="https://raw.githubusercontent.com/DerekPascarella/MetalAndLace-EnglishPatchFMTowns/main/images/cover_front_small.jpg?token=GHSAT0AAAAAABY4UP7EEYD2EPMSL75CNTC4Y74T3QA">English translation patch for the FM Towns/FM Towns Marty game "Metal & Lace".
+<img width="165" height="229" align="right" src="https://raw.githubusercontent.com/DerekPascarella/MetalAndLace-EnglishPatchFMTowns/main/images/cover_front_small.jpg">English translation patch for the FM Towns/FM Towns Marty game "Metal & Lace".
 <br><br>
 Players assume the role of Mimi, a young girl obsessed with developing high-tech remote-controlled robots, known as Silhouettes.  When she and her mother stumble upon an online ad for an underground fighting tournament, her mother quickly decides that Mimi must compete (and win) in order to pay off the tremendous debts that her daughter's hobby has incurred.
 <br><br>
