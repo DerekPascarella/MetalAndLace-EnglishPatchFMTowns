@@ -74,6 +74,10 @@ Due to the game's use of compression when storing its graphics, two items remain
 <td>Forest</td>
 </tr>
 <tr>
+<td><b>Rating</b></td>
+<td>Adult</td>
+</tr>
+<tr>
 <td><b>Release Date</b></td>
 <td>October 1993</td>
 </tr>
