@@ -52,7 +52,7 @@ Due to the game's use of compression when storing its graphics, two items remain
 <br><br>
 <ul>
 <li><b>Title Screen Logo</b><br><br><img width="300" height="225" src="xxxx"><br><br></li>
-<li><b>Introduction Screen Text</b><br><br><img width="300" height="225" src="xxxx"><br><br><i>Silhouettes are remote-controlled robots originally developed to work in harsh conditions, such as outer space.  However, these robots quickly became popular for other applications, including combat.  The rise is this robot-on-robot form of martial arts resulted in numerous tournaments being held, including a world championship.</i></li>
+<li><b>Introduction Screen Text</b><br><br><img width="300" height="225" src="xxxx"><br><br><i>Silhouettes are remote-controlled robots originally developed to work in harsh conditions, such as outer space.  However, these robots quickly became popular for other applications, including combat.  The rise of this robot-on-robot form of martial arts resulted in numerous tournaments being held, including a world championship.</i></li>
 </ul>
 
 <h2>About the Game</h2>
