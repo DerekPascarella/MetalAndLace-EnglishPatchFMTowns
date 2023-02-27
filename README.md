@@ -5,7 +5,7 @@ Players assume the role of Mimi, a young girl obsessed with developing high-tech
 <br><br>
 What follows is a battle between Mimi and six other girls, all of whom wield their own Silhouettes.  The player completes the game after successfully defeating all six opponents, resulting in a scene where Mimi's mother decides that her daughter must now move on to an even bigger tournament with even bigger prize winnings.
 <br><br>
-The latest version of this patch is <a href="https://github.com/DerekPascarella/MetalAndLace-EnglishPatchFMTowns/releases/download/0.9/v0.9.zip">0.9</a>.
+The latest version of this patch is <a href="https://github.com/DerekPascarella/MetalAndLace-EnglishPatchFMTowns/releases/download/0.9/Metal.Lace.English.v0.9.zip">0.9</a>.
 
 <h2>Table of Contents</h2>
 
