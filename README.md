@@ -38,7 +38,7 @@ The latest version of this patch is <a href="https://github.com/DerekPascarella/
 <h2>What's Changed</h2>
 <img align="right" width="300" height="225" src="https://raw.githubusercontent.com/DerekPascarella/MetalAndLace-EnglishPatchFMTowns/main/images/screenshot.png"><ul>
 <li>Title screen menu text has been translated into English.</li>
-<li>Introduction sequence between Mimi and her mother has been translated into English.</li>
+<li>Introduction sequence between Rika and her mother has been translated into English.</li>
 <li>Fighter data sheets have been translated into English.</li>
 <li>Pre-battle dialogue text has been translated into English.</li>
 <li>Mid-battle dialogue text has been translated into English.</li>
