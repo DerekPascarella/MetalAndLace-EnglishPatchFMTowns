@@ -104,6 +104,8 @@ Due to the game's use of compression when storing its graphics, two items remain
 </ul>
 
 <h2>A Note on the FM Towns Marty</h2>
-<img align="right" width="150" height="142" src="https://raw.githubusercontent.com/DerekPascarella/MetalAndLace-EnglishPatchFMTowns/main/images/marty_palette_bug_1.gif">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In in ipsum enim. Sed laoreet suscipit est et mattis. Mauris sed auctor diam. In finibus est sed metus sagittis tristique. Quisque nec ligula non turpis molestie interdum ac ac nibh. Proin et leo nisl. Ut imperdiet nibh vitae feugiat aliquet.
+<img align="right" width="150" height="142" src="https://raw.githubusercontent.com/DerekPascarella/MetalAndLace-EnglishPatchFMTowns/main/images/marty_palette_bug_1.gif">When playing the retail Japanese version of "Ningyou Tsukai" on FM Towns Marty hardware, players will experience color palette corruption issues during the opening sequence after starting a new game. One such example is shown in this section.
 <br><br>
-Vivamus interdum placerat lorem, non condimentum elit gravida at. Fusce condimentum risus vitae faucibus convallis. Donec feugiat et tortor id consectetur. Suspendisse pulvinar, erat quis molestie faucibus, erat elit sodales nibh, eget varius orci tellus a ligula.
+A user on the <a href="https://nfggames.com/forum2/index.php?board=25.0">nfggames.com forums</a> named PepAlacant discovered that booting the disc via a TOWNS OS V2.1 L40 floppy boot disk mitigated these palette problems.  With that information, a custom version of this patch was developed to leverage this version of TOWNS OS, replacing the one baked into the original retail disc.
+<br><br>
+Those wishing to play this patch on the FM Towns Marty should use the version labeled "Marty Version".
