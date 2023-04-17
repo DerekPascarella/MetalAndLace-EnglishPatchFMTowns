@@ -15,6 +15,7 @@ The latest version of this patch is <a href="https://github.com/DerekPascarella/
 4. [To-Do](#to-do)
 5. [About the Game](#about-the-game)
 6. [How to Play](#how-to-play)
+7. [A Note on the FM Towns Marty](#a-note-on-the-fm-towns-marty)
 
 <h2>Patching Instructions</h2>
 <img align="right" width="250" src="https://i.imgur.com/r4b04e7.png">The XDelta patch file shipped with this release can be used with any number of Delta utilities, such as <a href="https://www.romhacking.net/utilities/704/">Delta Patcher</a>. Ensure that the <a href="http://redump.org/disc/72696/">Redump version of the game</a> is used as the source disc image, where <tt>Ningyou Tsukai (Japan).bin</tt> has an MD5 checksum of <tt>899AA0A1D3AF956F2A59A4E8638558AE</tt>.
@@ -29,6 +30,10 @@ The latest version of this patch is <a href="https://github.com/DerekPascarella/
 
 <h2>Release Changelog</h2>
 <ul>
+ <li>Version 0.9 - Marty Version (2023-04-17)</li>
+ <ul>
+  <li>Built custom patch using TOWNS OS V2.1 L40 to address color palette issues experienced on the FM Towns Marty.</li>
+ </ul>
  <li>Version 0.9 (2023-02-27)</li>
  <ul>
   <li>Initial release.</li>
@@ -45,6 +50,7 @@ The latest version of this patch is <a href="https://github.com/DerekPascarella/
 <li>Post-battle dialogue text has been translated into English.</li>
 <li>Credits have been translated into English.</li>
 <li>A missing piece of mid-battle dialogue text has been restored (i.e., bugfix for the original Japanese release).</li>
+<li>To address color palette issues on the FM Towns Marty, a custom build has been created to leverage TOWNS OS V2.1 L40 (patch labeled as "Marty Version").</li>
 </ul>
 
 <h2>To-Do</h2>
@@ -83,7 +89,7 @@ Due to the game's use of compression when storing its graphics, two items remain
 </tr>
 <tr>
 <td><b>Compatibility</b></td>
-<td>FM Towns<br>FM Towns Marty (with mild color palette issues)</td>
+<td>FM Towns<br>FM Towns Marty</td>
 </tr>
 <tr>
 <td><b>Cover Scans</b></td>
@@ -96,3 +102,8 @@ Due to the game's use of compression when storing its graphics, two items remain
  <li><b>ODE (Optical Drive Emulator)</b><br>The English-patched version of this game is compatible with both the <a href="https://gdemu.wordpress.com/details/docbrown-details/">DocBrown</a> and <a href="https://gdemu.wordpress.com/details/wizard-details/">Wizard</a> ODEs for the FM Towns Marty and the FM Towns, respectively.  Note that only the patched <tt>.bin</tt> file should be copied to the SD card, as neither ODE supports parsing CUE sheets.  Because "Metal & Lace" uses only one data track with no CDDA, both of these ODEs are compatible with the single <tt>.bin</tt>.<br><br>In order to save game progress, an MS-DOS-formatted floppy disk must be present.  For users of FDD emulators (e.g., <a href="https://www.gotekemulator.com/">GoTek</a>, <a href="https://caiusarcade.blogspot.com/2021/05/the-thing-fm-towns-marty-fdd-emulator.html">The Thing</a>), see pre-made disk images below.<br><br>⯈ <a href="https://github.com/DerekPascarella/MetalAndLace-EnglishPatchFMTowns/raw/main/fdd_images/Blank%20Disk%20(MS-DOS%20Formatted).hfe">Blank Disk (MS-DOS Formatted).hfe</a><br>⯈ <a href="https://github.com/DerekPascarella/MetalAndLace-EnglishPatchFMTowns/raw/main/fdd_images/Metal%20%26%20Lace%20-%20Completed%20Save.hfe">Metal & Lace - Completed Save.hfe</a><br><br></li>
  <li><b>Emulator</b><br>The English-patched version of this game is compatible with the <a href="https://github.com/captainys/TOWNSEMU">Tsugaru</a> emulator, and likely <a href="http://townsemu.world.coocan.jp/download.html">Unz</a> as well.  In order to save game progress, an MS-DOS-formatted floppy disk must be present.  The following pre-made disk images have been tested and confirmed working with Tsugaru.<br><br>⯈ <a href="https://github.com/DerekPascarella/MetalAndLace-EnglishPatchFMTowns/raw/main/fdd_images/Blank%20Disk%20(MS-DOS%20Formatted).d88">Blank Disk (MS-DOS Formatted).d88</a><br>⯈ <a href="https://github.com/DerekPascarella/MetalAndLace-EnglishPatchFMTowns/raw/main/fdd_images/Metal%20%26%20Lace%20-%20Completed%20Save.d88">Metal & Lace - Completed Save.d88</a></li>
 </ul>
+
+<h2>A Note on the FM Towns Marty</h2>
+<img align="right" width="150" height="142" src="https://raw.githubusercontent.com/DerekPascarella/MetalAndLace-EnglishPatchFMTowns/main/images/marty_palette_bug_1.gif">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In in ipsum enim. Sed laoreet suscipit est et mattis. Mauris sed auctor diam. In finibus est sed metus sagittis tristique. Quisque nec ligula non turpis molestie interdum ac ac nibh. Proin et leo nisl. Ut imperdiet nibh vitae feugiat aliquet.
+<br><br>
+Vivamus interdum placerat lorem, non condimentum elit gravida at. Fusce condimentum risus vitae faucibus convallis. Donec feugiat et tortor id consectetur. Suspendisse pulvinar, erat quis molestie faucibus, erat elit sodales nibh, eget varius orci tellus a ligula.
