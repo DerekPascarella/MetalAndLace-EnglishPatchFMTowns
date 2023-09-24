@@ -1,5 +1,5 @@
 <h1>Metal & Lace</h1>
-<img width="165" height="229" align="right" src="https://raw.githubusercontent.com/DerekPascarella/MetalAndLace-EnglishPatchFMTowns/main/images/cover_front_small.jpg">English translation patch for eroge fighting game "Metal & Lace" on the FM Towns/FM Towns Marty.
+<img width="165" height="229" align="right" src="https://raw.githubusercontent.com/DerekPascarella/MetalAndLace-EnglishPatchFMTowns/main/images/cover_front_small.jpg">English translation patch for the eroge fighting game "Metal & Lace" on the FM Towns/FM Towns Marty.
 <br><br>
 Players assume the role of Rika, a young girl obsessed with developing high-tech remote-controlled robots, known as Silhouettes.  When she and her mother stumble upon an online ad for an underground fighting tournament, her mother quickly decides that Rika and her Silhouette Mimi must compete (and win) in order to pay off the tremendous debts that her daughter's hobby has incurred.
 <br><br>
