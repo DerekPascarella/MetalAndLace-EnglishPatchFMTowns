@@ -5,7 +5,7 @@ Players assume the role of Rika, a young girl obsessed with developing high-tech
 <br><br>
 What follows is a battle between Rika and six other girls, all of whom wield their own mechanical fighters.  The player completes the game after successfully defeating all six opponents, resulting in a scene where Mimi's mother decides that her daughter must now move on to an even bigger tournament with even bigger prize winnings.
 <br><br>
-The latest version of this patch is <a href="https://github.com/DerekPascarella/MetalAndLace-EnglishPatchFMTowns/releases/tag/0.9">0.9</a>.
+The latest version of this patch is <a href="https://github.com/DerekPascarella/MetalAndLace-EnglishPatchFMTowns/releases/tag/0.91">0.91</a>.
 
 <h2>Table of Contents</h2>
 
@@ -25,11 +25,15 @@ The latest version of this patch is <a href="https://github.com/DerekPascarella/
 <li>Click the "Original file" browse icon and select the unmodified <tt>Ningyou Tsukai (Japan).bin</tt> file.</li>
 <li>Click the "XDelta patch" browse icon and select the XDelta patch.</li>
 <li>Click "Apply patch" to generate the patched <tt>.bin</tt> in the same folder containing original <tt>.bin</tt>.</li>
-<li>Verify that the patched <tt>.bin</tt> has an MD5 checksum of <tt>3750F38993440C8604C325FBDFFEA503</tt>.</li>
+<li>Verify that the patched <tt>.bin</tt> has an MD5 checksum of <tt>07587BE690E61DF2A05304FCD11C11AA</tt> (or <tt>0742CBB7D3A9F4B562CEA4E70E5CF72E</tt> for the Marty version).</li>
 </ol>
 
 <h2>Release Changelog</h2>
 <ul>
+ <li>Version 0.91 (2023-11-23)</li>
+ <ul>
+  <li>Fixed two text alignment errors (reported by Brandon Cobb of <a href="https://superfighter.com">Super Fighter Team</a>).</li>
+ </ul>
  <li>Version 0.9 - Marty Version (2023-04-17)</li>
  <ul>
   <li>Built custom patch using TOWNS OS V2.1 L40 to address color palette issues experienced on the FM Towns Marty.</li>
