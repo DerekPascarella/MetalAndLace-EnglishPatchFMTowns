@@ -31,7 +31,7 @@ The latest version of this patch is <a href="https://github.com/DerekPascarella/
 <ul>
  <li>Version 1.0 (2026-05-19)</li>
   <ul>
-   <li>Consolidated Marty and non-Marty patches into one, universally compatible patch.</li>
+   <li>Consolidated Marty and non-Marty patches into one universally compatible patch.</li>
    <li>Title screen logo and prologue screen graphic now both appear in English.</li>
   </ul>
  <li>Version 0.91 (2023-11-23)</li>
