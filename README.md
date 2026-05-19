@@ -5,17 +5,16 @@ Players assume the role of Rika, a young girl obsessed with developing high-tech
 <br><br>
 What follows is a battle between Rika and six other girls, all of whom wield their own mechanical fighters.  The player completes the game after successfully defeating all six opponents, resulting in a scene where Mimi's mother decides that her daughter must now move on to an even bigger tournament with even bigger prize winnings.
 <br><br>
-The latest version of this patch is <a href="https://github.com/DerekPascarella/MetalAndLace-EnglishPatchFMTowns/releases/tag/0.91">0.91</a>.
+The latest version of this patch is <a href="https://github.com/DerekPascarella/MetalAndLace-EnglishPatchFMTowns/releases/tag/1.0">1.0</a>.
 
 <h2>Table of Contents</h2>
 
 1. [Patching Instructions](#patching-instructions)
 2. [Release Changelog](#release-changelog)
 3. [What's Changed](#whats-changed)
-4. [To-Do](#to-do)
-5. [About the Game](#about-the-game)
-6. [How to Play](#how-to-play)
-7. [A Note on the FM Towns Marty](#a-note-on-the-fm-towns-marty)
+4. [About the Game](#about-the-game)
+5. [How to Play](#how-to-play)
+6. [A Note on the FM Towns Marty](#a-note-on-the-fm-towns-marty)
 
 <h2>Patching Instructions</h2>
 <img align="right" width="250" src="https://i.imgur.com/r4b04e7.png">The XDelta patch file shipped with this release can be used with any number of Delta utilities, such as <a href="https://www.romhacking.net/utilities/704/">Delta Patcher</a>. Ensure that the <a href="http://redump.org/disc/72696/">Redump version of the game</a> is used as the source disc image, where <tt>Ningyou Tsukai (Japan).bin</tt> has an MD5 checksum of <tt>899AA0A1D3AF956F2A59A4E8638558AE</tt>.
@@ -25,11 +24,16 @@ The latest version of this patch is <a href="https://github.com/DerekPascarella/
 <li>Click the "Original file" browse icon and select the unmodified <tt>Ningyou Tsukai (Japan).bin</tt> file.</li>
 <li>Click the "XDelta patch" browse icon and select the XDelta patch.</li>
 <li>Click "Apply patch" to generate the patched <tt>.bin</tt> in the same folder containing original <tt>.bin</tt>.</li>
-<li>Verify that the patched <tt>.bin</tt> has an MD5 checksum of <tt>07587BE690E61DF2A05304FCD11C11AA</tt> (or <tt>0742CBB7D3A9F4B562CEA4E70E5CF72E</tt> for the Marty version).</li>
+<li>Verify that the patched <tt>.bin</tt> has an MD5 checksum of <tt>5F85DF05826711636A9EA338A687B809</tt>.</li>
 </ol>
 
 <h2>Release Changelog</h2>
 <ul>
+ <li>Version 1.0 (2026-05-19)</li>
+  <ul>
+   <li>Consolidated Marty and non-Marty patches into one, universally compatible patch.</li>
+   <li>Title screen logo and "Silhouette prologue screen" now both appear in English.</li>
+  </ul>
  <li>Version 0.91 (2023-11-23)</li>
  <ul>
   <li>Fixed two text alignment errors (reported by Brandon Cobb of <a href="https://superfighter.com">Super Fighter Team</a>).</li>
@@ -55,14 +59,6 @@ The latest version of this patch is <a href="https://github.com/DerekPascarella/
 <li>Credits have been translated into English.</li>
 <li>A missing piece of mid-battle dialogue text has been restored (i.e., bugfix for the original Japanese release).</li>
 <li>To address color palette issues on the FM Towns Marty, a custom build has been created to leverage TOWNS OS V2.1 L40 (patch labeled as "Marty Version").</li>
-</ul>
-
-<h2>To-Do</h2>
-Due to the game's use of compression when storing its graphics, two items remain untranslated as of version 0.9 of this patch.
-<br><br>
-<ul>
-<li><b>Title Screen Logo</b><br><br><img width="300" height="225" src="https://github.com/DerekPascarella/MetalAndLace-EnglishPatchFMTowns/blob/main/images/to-do_title_screen.png?raw=true"><br><br></li>
-<li><b>Introduction Screen Text</b><br><br><img width="300" height="225" src="https://github.com/DerekPascarella/MetalAndLace-EnglishPatchFMTowns/blob/main/images/to-do_intro_text.png?raw=true"><br><br><i>Silhouettes are remote-controlled robots originally developed to work in harsh conditions, such as outer space.  However, these robots quickly became popular for other applications, including combat.  The rise of this robot-on-robot form of martial arts resulted in numerous tournaments being held, including a world championship.</i></li>
 </ul>
 
 <h2>About the Game</h2>
