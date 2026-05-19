@@ -32,7 +32,7 @@ The latest version of this patch is <a href="https://github.com/DerekPascarella/
  <li>Version 1.0 (2026-05-19)</li>
   <ul>
    <li>Consolidated Marty and non-Marty patches into one, universally compatible patch.</li>
-   <li>Title screen logo and "Silhouette prologue screen" now both appear in English.</li>
+   <li>Title screen logo and prologue screen graphic now both appear in English.</li>
   </ul>
  <li>Version 0.91 (2023-11-23)</li>
  <ul>
@@ -50,6 +50,7 @@ The latest version of this patch is <a href="https://github.com/DerekPascarella/
 
 <h2>What's Changed</h2>
 <img align="right" width="300" height="225" src="https://raw.githubusercontent.com/DerekPascarella/MetalAndLace-EnglishPatchFMTowns/main/images/screenshot.png"><ul>
+<li>Title screen and prologue graphic now appear in English.</li>
 <li>Title screen menu text has been translated into English.</li>
 <li>Introduction sequence between Rika and her mother has been translated into English.</li>
 <li>Fighter data sheets have been translated into English.</li>
