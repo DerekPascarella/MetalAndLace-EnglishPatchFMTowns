@@ -1,11 +1,11 @@
-<h1>Metal & Lace</h1>
-<img width="165" height="229" align="right" src="https://raw.githubusercontent.com/DerekPascarella/MetalAndLace-EnglishPatchFMTowns/main/images/cover_front_small.jpg">English translation patch for the eroge fighting game "Metal & Lace" on the FM Towns/FM Towns Marty.
+<h1>Puppet Master</h1>
+<img width="165" height="229" align="right" src="https://raw.githubusercontent.com/DerekPascarella/PuppetMaster-EnglishPatchFMTowns/main/images/cover_front_small.jpg">English translation patch for the eroge fighting game "Puppet Master" on the FM Towns/FM Towns Marty.
 <br><br>
 Players assume the role of Rika, a young girl obsessed with developing high-tech remote-controlled robots, known as Silhouettes.  When she and her mother stumble upon an online ad for an underground fighting tournament, her mother quickly decides that Rika and her Silhouette Mimi must compete (and win) in order to pay off the tremendous debts that her daughter's hobby has incurred.
 <br><br>
 What follows is a battle between Rika and six other girls, all of whom wield their own mechanical fighters.  The player completes the game after successfully defeating all six opponents, resulting in a scene where Mimi's mother decides that her daughter must now move on to an even bigger tournament with even bigger prize winnings.
 <br><br>
-The latest version of this patch is <a href="https://github.com/DerekPascarella/MetalAndLace-EnglishPatchFMTowns/releases/tag/1.0">1.0</a>.
+The latest version of this patch is <a href="https://github.com/DerekPascarella/PuppetMaster-EnglishPatchFMTowns/releases/tag/1.1">1.1</a>.
 
 <h2>Table of Contents</h2>
 
@@ -24,11 +24,15 @@ The latest version of this patch is <a href="https://github.com/DerekPascarella/
 <li>Click the "Original file" browse icon and select the unmodified <tt>Ningyou Tsukai (Japan).bin</tt> file.</li>
 <li>Click the "XDelta patch" browse icon and select the XDelta patch.</li>
 <li>Click "Apply patch" to generate the patched <tt>.bin</tt> in the same folder containing original <tt>.bin</tt>.</li>
-<li>Verify that the patched <tt>.bin</tt> has an MD5 checksum of <tt>5F85DF05826711636A9EA338A687B809</tt>.</li>
+<li>Verify that the patched <tt>.bin</tt> has an MD5 checksum of <tt>35DE3CF2090F5CC402C3FF5B9F6BB054</tt>.</li>
 </ol>
 
 <h2>Release Changelog</h2>
 <ul>
+ <li>Version 1.1 (2026-05-21)</li>
+  <ul>
+   <li>Localized title changed to "Puppet Master", including new title screen logo to reflect it.</li>
+  </ul>
  <li>Version 1.0 (2026-05-19)</li>
   <ul>
    <li>Consolidated Marty and non-Marty patches into one universally compatible patch.</li>
@@ -49,7 +53,7 @@ The latest version of this patch is <a href="https://github.com/DerekPascarella/
 </ul>
 
 <h2>What's Changed</h2>
-<img align="right" width="300" height="225" src="https://raw.githubusercontent.com/DerekPascarella/MetalAndLace-EnglishPatchFMTowns/main/images/screenshot.png"><ul>
+<img align="right" width="300" height="225" src="https://raw.githubusercontent.com/DerekPascarella/PuppetMaster-EnglishPatchFMTowns/main/images/screenshot.png"><ul>
 <li>Title screen logo and prologue graphic now appear in English.</li>
 <li>Title screen menu text has been translated into English.</li>
 <li>Introduction sequence between Rika and her mother has been translated into English.</li>
@@ -70,7 +74,7 @@ The latest version of this patch is <a href="https://github.com/DerekPascarella/
 </tr>
 <tr>
 <td><b>Localized Title</b></td>
-<td>Metal & Lace</td>
+<td>Puppet Master</td>
 </tr>
 <tr>
 <td><b>Developer</b></td>
@@ -94,17 +98,17 @@ The latest version of this patch is <a href="https://github.com/DerekPascarella/
 </tr>
 <tr>
 <td><b>Cover Scans</b></td>
-<td><a href="https://raw.githubusercontent.com/DerekPascarella/MetalAndLace-EnglishPatchFMTowns/main/images/cover_front.jpg">Front</a> / <a href="https://raw.githubusercontent.com/DerekPascarella/MetalAndLace-EnglishPatchFMTowns/main/images/cover_spine.jpg">Spine</a> / <a href="https://raw.githubusercontent.com/DerekPascarella/MetalAndLace-EnglishPatchFMTowns/main/images/cover_back.jpg">Back</a></td>
+<td><a href="https://raw.githubusercontent.com/DerekPascarella/PuppetMaster-EnglishPatchFMTowns/main/images/cover_front.jpg">Front</a> / <a href="https://raw.githubusercontent.com/DerekPascarella/PuppetMaster-EnglishPatchFMTowns/main/images/cover_spine.jpg">Spine</a> / <a href="https://raw.githubusercontent.com/DerekPascarella/PuppetMaster-EnglishPatchFMTowns/main/images/cover_back.jpg">Back</a></td>
 </tr>
 </table>
 
 <h2>How to Play</h2>
 <ul>
- <li><b>ODE (Optical Drive Emulator)</b><br>The English-patched version of this game is compatible with both the <a href="https://gdemu.wordpress.com/details/docbrown-details/">DocBrown</a> and <a href="https://gdemu.wordpress.com/details/wizard-details/">Wizard</a> ODEs for the FM Towns Marty and the FM Towns, respectively.  Note that only the patched <tt>.bin</tt> file should be copied to the SD card, as neither ODE supports parsing CUE sheets.  Because "Metal & Lace" uses only one data track with no CDDA, both of these ODEs are compatible with the single <tt>.bin</tt>.<br><br>In order to save game progress, an MS-DOS-formatted floppy disk must be present.  For users of FDD emulators (e.g., <a href="https://www.gotekemulator.com/">GoTek</a>, <a href="https://caiusarcade.blogspot.com/2021/05/the-thing-fm-towns-marty-fdd-emulator.html">The Thing</a>), see pre-made disk images below.<br><br>⯈ <a href="https://github.com/DerekPascarella/MetalAndLace-EnglishPatchFMTowns/raw/main/fdd_images/Blank%20Disk%20(MS-DOS%20Formatted).hfe">Blank Disk (MS-DOS Formatted).hfe</a><br>⯈ <a href="https://github.com/DerekPascarella/MetalAndLace-EnglishPatchFMTowns/raw/main/fdd_images/Metal%20%26%20Lace%20-%20Completed%20Save.hfe">Metal & Lace - Completed Save.hfe</a><br><br></li>
- <li><b>Emulator</b><br>The English-patched version of this game is compatible with the <a href="https://github.com/captainys/TOWNSEMU">Tsugaru</a> emulator, and likely <a href="http://townsemu.world.coocan.jp/download.html">Unz</a> as well.  In order to save game progress, an MS-DOS-formatted floppy disk must be present.  The following pre-made disk images have been tested and confirmed working with Tsugaru.<br><br>⯈ <a href="https://github.com/DerekPascarella/MetalAndLace-EnglishPatchFMTowns/raw/main/fdd_images/Blank%20Disk%20(MS-DOS%20Formatted).d88">Blank Disk (MS-DOS Formatted).d88</a><br>⯈ <a href="https://github.com/DerekPascarella/MetalAndLace-EnglishPatchFMTowns/raw/main/fdd_images/Metal%20%26%20Lace%20-%20Completed%20Save.d88">Metal & Lace - Completed Save.d88</a></li>
+ <li><b>ODE (Optical Drive Emulator)</b><br>The English-patched version of this game is compatible with both the <a href="https://gdemu.wordpress.com/details/docbrown-details/">DocBrown</a> and <a href="https://gdemu.wordpress.com/details/wizard-details/">Wizard</a> ODEs for the FM Towns Marty and the FM Towns, respectively.  Note that only the patched <tt>.bin</tt> file should be copied to the SD card, as neither ODE supports parsing CUE sheets.  Because "Puppet Master" uses only one data track with no CDDA, both of these ODEs are compatible with the single <tt>.bin</tt>.<br><br>In order to save game progress, an MS-DOS-formatted floppy disk must be present.  For users of FDD emulators (e.g., <a href="https://www.gotekemulator.com/">GoTek</a>, <a href="https://caiusarcade.blogspot.com/2021/05/the-thing-fm-towns-marty-fdd-emulator.html">The Thing</a>), see pre-made disk images below.<br><br>⯈ <a href="https://github.com/DerekPascarella/PuppetMaster-EnglishPatchFMTowns/raw/main/fdd_images/Blank%20Disk%20(MS-DOS%20Formatted).hfe">Blank Disk (MS-DOS Formatted).hfe</a><br>⯈ <a href="https://github.com/DerekPascarella/PuppetMaster-EnglishPatchFMTowns/raw/main/fdd_images/Puppet%20Master%20-%20Completed%20Save.hfe">Puppet Master - Completed Save.hfe</a><br><br></li>
+ <li><b>Emulator</b><br>The English-patched version of this game is compatible with the <a href="https://github.com/captainys/TOWNSEMU">Tsugaru</a> emulator, and likely <a href="http://townsemu.world.coocan.jp/download.html">Unz</a> as well.  In order to save game progress, an MS-DOS-formatted floppy disk must be present.  The following pre-made disk images have been tested and confirmed working with Tsugaru.<br><br>⯈ <a href="https://github.com/DerekPascarella/PuppetMaster-EnglishPatchFMTowns/raw/main/fdd_images/Blank%20Disk%20(MS-DOS%20Formatted).d88">Blank Disk (MS-DOS Formatted).d88</a><br>⯈ <a href="https://github.com/DerekPascarella/PuppetMaster-EnglishPatchFMTowns/raw/main/fdd_images/Puppet%20Master%20-%20Completed%20Save.d88">Puppet Master - Completed Save.d88</a></li>
 </ul>
 
 <h2>A Note on the FM Towns Marty</h2>
-<img align="right" width="150" height="142" src="https://raw.githubusercontent.com/DerekPascarella/MetalAndLace-EnglishPatchFMTowns/main/images/marty_palette_bug_1.gif">When playing the retail Japanese version of "Ningyou Tsukai" on FM Towns Marty hardware, players will experience color palette corruption issues during the opening sequence after starting a new game. One such example is shown in this section.
+<img align="right" width="150" height="142" src="https://raw.githubusercontent.com/DerekPascarella/PuppetMaster-EnglishPatchFMTowns/main/images/marty_palette_bug_1.gif">When playing the retail Japanese version of "Ningyou Tsukai" on FM Towns Marty hardware, players will experience color palette corruption issues during the opening sequence after starting a new game. One such example is shown in this section.
 <br><br>
 The user <a href="https://nfggames.com/forum2/index.php?action=profile;u=12118">PepAlacant</a> on the <a href="https://nfggames.com/forum2/index.php?board=25.0">nfggames.com forums</a> discovered that booting the disc via a TOWNS OS V2.1 L40 floppy boot disk mitigated these palette problems.  With that information, this English translation patch was developed to leverage this version of TOWNS OS, replacing the one baked into the original retail disc.
